@@ -1,0 +1,9 @@
+id,datetime,source,destination,amount_myr,channel,reference,note
+TX-0471-01,2026-07-18 10:14,Victim account,DEMO-MY-24018,10000,FPX,ref=QC7712,First victim transfer
+TX-0471-02,2026-07-19 14:06,Victim account,DEMO-MY-24018,15000,FPX,ref=QC7712,Second victim transfer
+TX-0471-03,2026-07-22 09:41,Victim account,DEMO-MY-77105,20000,FPX,ref=QC7712,Third victim transfer
+TX-0471-04,2026-07-25 16:22,Victim account,DEMO-MY-55431,25000,FPX,ref=QC7712,Fourth victim transfer
+TX-0471-05,2026-07-27 11:09,Victim account,DEMO-MY-55431,12500,FPX,ref=QC7712,Fifth victim transfer
+TX-0471-D1,2026-07-23 08:30,DEMO-MY-24018,DEMO-MY-55431,19000,IBG,QC-SETTLE-01,Downstream consolidation in supplied records
+TX-0471-D2,2026-07-26 10:12,DEMO-MY-77105,DEMO-MY-99820,19500,IBG,QC-SETTLE-02,Downstream movement in supplied records
+TX-0471-D3,2026-07-27 15:44,DEMO-MY-55431,DEMO-MY-99820,40500,IBG,QC-SETTLE-03,Downstream movement in supplied records

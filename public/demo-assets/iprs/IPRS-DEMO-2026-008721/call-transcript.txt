@@ -1,0 +1,17 @@
+TRANSKRIP PANGGILAN SINTETIK — 21/07/2026 (rekod pengadu, demonstrasi sahaja)
+
+[C01] 14:02 Daniel Lim: Selamat petang Puan Aina, Daniel dari Quantum Crest Capital. Terima kasih sudi luangkan masa.
+[C02] 14:02 Nur Aina Rahman: Ya, Encik Daniel. Terangkan pasal tier gold tu.
+[C03] 14:03 Daniel Lim: Tier gold ni puan masuk RM20,000, kami letak dalam AI trading pool utama. Anggaran pulangan 10% seminggu.
+[C04] 14:04 Nur Aina Rahman: Risiko macam mana? Kalau rugi?
+[C05] 14:05 Daniel Lim: Puan, sejak kami operate belum ada client rugi. Sistem kami ada capital protection.
+[C06] 14:06 Nur Aina Rahman: Syarikat ni berdaftar ke? Saya nak pastikan dulu.
+[C07] 14:07 Daniel Lim: Kami berdaftar di offshore financial centre puan, semua rekod ada di quantum-crest.example. Puan boleh semak sendiri.
+[C08] 14:08 Nur Aina Rahman: Ok. Kalau saya nak keluarkan duit bila-bila masa boleh?
+[C09] 14:09 Daniel Lim: Boleh puan, withdrawal within 24 hours. No lock-in untuk tier gold.
+[C10] 14:10 Nur Aina Rahman: Baiklah, saya akan top up esok pagi. Akaun mana?
+[C11] 14:11 Daniel Lim: Kali ni guna akaun DEMO-MY-77105 ya puan, akaun 24018 sedang dalam proses settlement mingguan.
+[C12] 14:12 Nur Aina Rahman: Baik, saya faham. Terima kasih.
+[C13] 14:12 Daniel Lim: Sama-sama puan. Rujukan ref=QC7712 untuk semua transaksi. Jumpa esok!
+
+— TAMAT TRANSKRIP PANGGILAN SINTETIK —

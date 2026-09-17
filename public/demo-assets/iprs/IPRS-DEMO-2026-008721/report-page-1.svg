@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="1123" viewBox="0 0 794 1123" font-family="monospace">
+  <rect width="794" height="1123" fill="#f8f6ef"/>
+  <rect x="60" y="40" width="674" height="80" fill="none" stroke="#888" stroke-width="1"/>
+  <text x="397" y="75" text-anchor="middle" font-size="20" font-weight="bold">REPRESENTASI LAPORAN POLIS SINTETIK</text>
+  <text x="397" y="100" text-anchor="middle" font-size="13">IPRS-2026-008721 — DOKUMEN LAPORAN KES</text>
+  <g font-size="12" fill="#222">
+    <text x="70" y="160">No. Laporan : IPRS-DEMO-2026-008721</text>
+    <text x="70" y="182">Tarikh      : 29/07/2026 09:47</text>
+    <text x="70" y="204">Balai       : Ibu Pejabat Kontinjen Daerah, Kuala Lumpur</text>
+    <text x="70" y="226">Pengadu     : Nur Aina Rahman</text>
+    <text x="70" y="248">Jenis Kes   : Penipuan pelaburan tidak wujud</text>
+    <text x="70" y="270">Jumlah Kerugian Dilaporkan: RM82,500</text>
+    <text x="70" y="312">Ringkasan: Pengadu melihat iklan pelaburan "Quantum Crest Capital" di media</text>
+    <text x="70" y="334">sosial, dihubungi individu menggunakan nama Daniel Lim dan ditambah ke</text>
+    <text x="70" y="356">kumpulan WhatsApp. Pengadu membuat lima pindahan berjumlah RM82,500</text>
+    <text x="70" y="378">kepada tiga akaun: DEMO-MY-24018, DEMO-MY-77105 dan DEMO-MY-55431.</text>
+    <text x="70" y="400">Apabila memohon pengeluaran, pengadu diminta membayar yuran tambahan</text>
+    <text x="70" y="422">RM8,000 sebelum dana "dilepaskan". Pengadu enggan dan membuat laporan.</text>
+    <text x="70" y="466">Lampiran: transkrip WhatsApp, transkrip panggilan, penyata transaksi,</text>
+    <text x="70" y="488">imej promosi pelaburan.</text>
+  </g>
+  <rect x="60" y="1000" width="674" height="60" fill="none" stroke="#b83b3b" stroke-width="1"/>
+  <text x="397" y="1035" text-anchor="middle" font-size="14" fill="#b83b3b" font-weight="bold">SYNTHETIC DEMO DATA — TIADA IDENTITI SEBENAR</text>
+</svg>

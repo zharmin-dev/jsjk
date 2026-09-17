@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.3.0",
+  "fixtureVersion": "2026-08-12.1",
+  "featuredCaseId": "JSJK-DEMO-2026-0471",
+  "featuredReportId": "IPRS-DEMO-2026-008721",
+  "artifactPaths": [
+    "demo-assets/iprs/IPRS-DEMO-2026-008721/report-page-1.svg",
+    "demo-assets/iprs/IPRS-DEMO-2026-008721/investment-promo.svg",
+    "demo-assets/iprs/IPRS-DEMO-2026-008721/whatsapp-transcript.txt",
+    "demo-assets/iprs/IPRS-DEMO-2026-008721/call-transcript.txt",
+    "demo-assets/iprs/IPRS-DEMO-2026-008721/transactions.csv",
+    "demo-assets/exports/illustrative-minute.txt"
+  ],
+  "expectedCounts": {
+    "facts": 18,
+    "victimTransactions": 5,
+    "timelineEvents": 9,
+    "ccisRecords": 3,
+    "exactLinks": 3,
+    "similarityLinks": 1,
+    "evidenceGaps": 2,
+    "contradictions": 1
+  },
+  "expectedTotals": {
+    "victimTransfersMYR": 82500,
+    "accountedMYR": 79000,
+    "unresolvedMYR": 3500
+  },
+  "seededErrorFactId": "FACT-0471-06",
+  "ambiguousFactId": "FACT-0471-15",
+  "historicalCcisIds": [
+    "CCIS-DEMO-IP-2026-0318",
+    "CCIS-DEMO-IP-2026-0386",
+    "CCIS-DEMO-IP-2026-0442"
+  ]
+}

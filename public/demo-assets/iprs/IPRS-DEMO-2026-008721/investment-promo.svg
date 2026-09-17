@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="sans-serif">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2235"/>
+      <stop offset="1" stop-color="#195c9b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <text x="400" y="110" text-anchor="middle" font-size="42" font-weight="bold" fill="#42c5d4">Quantum Crest Capital</text>
+  <text x="400" y="165" text-anchor="middle" font-size="24" fill="#ffffff">AI-Assisted Investment Platform</text>
+  <text x="400" y="230" text-anchor="middle" font-size="20" fill="#d99a2b">Pulangan 8-12% Seminggu • Capital Protection</text>
+  <text x="400" y="290" text-anchor="middle" font-size="18" fill="#ffffff">Sertai VIP Group Sekarang — Slot Terhad!</text>
+  <text x="400" y="350" text-anchor="middle" font-size="16" fill="#e2e8f0">quantum-crest.example • ref=QC7712</text>
+  <rect x="40" y="430" width="720" height="46" fill="none" stroke="#d99a2b"/>
+  <text x="400" y="459" text-anchor="middle" font-size="15" fill="#d99a2b" font-weight="bold">SYNTHETIC DEMO IMAGE — BUKAN IKLAN SEBENAR</text>
+</svg>

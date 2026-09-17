@@ -1,0 +1,40 @@
+import type { IprsQueueItem } from "../../domain/contracts";
+
+export const iprsQueue: IprsQueueItem[] = [
+  {
+    reportId: "IPRS-DEMO-2026-008721",
+    caseId: "JSJK-DEMO-2026-0471",
+    receivedAt: "2026-07-05T10:45:00+08:00",
+    location: "Balai Polis Kuala Lumpur",
+    scamCategory: "Penipuan pelaburan dalam talian",
+    reportedLossMYR: 48750,
+    assignedOfficer: "Insp. Farah Nabila",
+    processingStatus: "received",
+    reviewStatus: "pending",
+    synthetic: true,
+  },
+  {
+    reportId: "IPRS-DEMO-2026-008702",
+    caseId: "JSJK-DEMO-2026-0455",
+    receivedAt: "2026-07-28T14:12:00+08:00",
+    location: "Balai Polis Demo Utara",
+    scamCategory: "Online purchase scam",
+    reportedLossMYR: 3400,
+    assignedOfficer: "Insp. Demo Officer (synthetic)",
+    processingStatus: "in_review",
+    reviewStatus: "in_progress",
+    synthetic: true,
+  },
+  {
+    reportId: "IPRS-DEMO-2026-008688",
+    caseId: "JSJK-DEMO-2026-0441",
+    receivedAt: "2026-07-27T11:03:00+08:00",
+    location: "Balai Polis Demo Selatan",
+    scamCategory: "Impersonation scam",
+    reportedLossMYR: 12750,
+    assignedOfficer: "Sjn. Demo Analyst (synthetic)",
+    processingStatus: "analysed",
+    reviewStatus: "pending",
+    synthetic: true,
+  },
+];

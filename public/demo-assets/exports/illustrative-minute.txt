@@ -1,0 +1,14 @@
+MINIT KERTAS SIASATAN (ILUSTRASI — DATA SINTETIK)
+================================================================
+
+NOTIS: Format ini ilustratif dan tertakluk kepada pengesahan JSJK.
+Kandungan draf memerlukan semakan dan kelulusan pegawai.
+Semua data adalah sintetik untuk tujuan demonstrasi.
+
+Kes: JSJK-DEMO-2026-0471
+Laporan iPRS (simulasi): IPRS-DEMO-2026-008721
+Jenis: Penipuan pelaburan tidak wujud
+Kerugian dilaporkan: RM82,500
+
+Eksport penuh PDF/DOCX dijana semasa build demo. Fail ini adalah
+pengganti ringkas untuk muat turun demonstrasi.
